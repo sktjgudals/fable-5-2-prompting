@@ -70,4 +70,4 @@ Each scenario in [tests/README.md](tests/README.md) was given to a fresh agent w
 
 ## License
 
-MIT for the original text in this repository. The example prompt texts are quoted from Anthropic's documentation and remain Anthropic's property. See [LICENSE](LICENSE).
+MIT for the original text in this repository. The example prompt texts are quoted from Anthropic's documentation and remain Anthropic's property. See [LICENSE](LICENSE) and [NOTICE](NOTICE).

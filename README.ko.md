@@ -60,4 +60,4 @@ Fable 5.2 에이전트가 자꾸 "계속할까요?"로 턴을 끝내. 뭘 바꿔
 
 ## 라이선스
 
-이 저장소의 원저작 텍스트는 MIT입니다. 예시 프롬프트 문구는 Anthropic 문서에서 인용했으며 Anthropic의 소유입니다. [LICENSE](LICENSE)를 참조하세요.
+이 저장소의 원저작 텍스트는 MIT입니다. 예시 프롬프트 문구는 Anthropic 문서에서 인용했으며 Anthropic의 소유입니다. [LICENSE](LICENSE)와 [NOTICE](NOTICE)를 참조하세요.

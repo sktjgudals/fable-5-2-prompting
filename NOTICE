@@ -1,0 +1,9 @@
+Notice on quoted material
+
+The example prompt texts in skills/fable-5-2-prompting/references/prescriptions.md
+are quoted from Anthropic's "Prompting Claude Fable 5.2" documentation
+(https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-2).
+They remain the property of Anthropic and are not covered by the MIT License
+in the LICENSE file.
+
+This project is not affiliated with or endorsed by Anthropic.
