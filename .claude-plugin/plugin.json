@@ -1,0 +1,13 @@
+{
+  "name": "fable-5-2-prompting",
+  "description": "Unofficial skill for auditing and tuning prompts, CLAUDE.md files, skills, and harnesses for Claude Fable 5.2, based on Anthropic's prompting guide.",
+  "version": "0.1.0",
+  "author": {
+    "name": "sktjgudals",
+    "url": "https://github.com/sktjgudals"
+  },
+  "homepage": "https://github.com/sktjgudals/fable-5-2-prompting",
+  "repository": "https://github.com/sktjgudals/fable-5-2-prompting",
+  "license": "MIT",
+  "keywords": ["claude", "fable-5-2", "prompting", "skill", "migration"]
+}
